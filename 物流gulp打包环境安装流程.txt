@@ -1,0 +1,35 @@
+安装 python2 (链接：https://pan.baidu.com/s/19o3ai1X_lVKQAop8-0zRyg)
+安装 nvm  (链接：https://pan.baidu.com/s/1i4RIu-tDDGotD43Vbh694w)
+
+安装完nvm后 进入安装目录下，修改setting文件，文件后加上
+
+node_mirror: https://npm.taobao.org/mirrors/node/
+npm_mirror: https://npm.taobao.org/mirrors/npm/
+
+----------------
+nvm install 8.10.0
+node --version
+npm --version
+
+
+npm install cnpm -g --registry=https://registry.npm.taobao.org
+
+npx --version
+
+cnpm install -g npx
+
+cnpm install --global gulp-cli
+
+cd project //进入项目目录
+
+cnpm install gulp
+
+gulp --version
+
+cnpm install yarn
+
+yarn install --no-bin-links
+
+cnpm install node-sass
+
+gulp --production
