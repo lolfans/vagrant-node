@@ -1,7 +1,7 @@
-°²×° python2 (Á´½Ó£ºhttps://pan.baidu.com/s/19o3ai1X_lVKQAop8-0zRyg)
-°²×° nvm  (Á´½Ó£ºhttps://pan.baidu.com/s/1i4RIu-tDDGotD43Vbh694w)
+å®‰è£… python2 (é“¾æ¥ï¼šhttps://pan.baidu.com/s/19o3ai1X_lVKQAop8-0zRyg)
+å®‰è£… nvm  (é“¾æ¥ï¼šhttps://pan.baidu.com/s/1i4RIu-tDDGotD43Vbh694w)
 
-°²×°Íênvmºó ½øÈë°²×°Ä¿Â¼ÏÂ£¬ĞŞ¸ÄsettingÎÄ¼ş£¬ÎÄ¼şºó¼ÓÉÏ
+å®‰è£…å®Œnvmå è¿›å…¥å®‰è£…ç›®å½•ä¸‹ï¼Œä¿®æ”¹settingæ–‡ä»¶ï¼Œæ–‡ä»¶ååŠ ä¸Š
 
 node_mirror: https://npm.taobao.org/mirrors/node/
 npm_mirror: https://npm.taobao.org/mirrors/npm/
@@ -20,7 +20,7 @@ cnpm install -g npx
 
 cnpm install --global gulp-cli
 
-cd project //½øÈëÏîÄ¿Ä¿Â¼
+cd project //è¿›å…¥é¡¹ç›®ç›®å½•
 
 cnpm install gulp
 
